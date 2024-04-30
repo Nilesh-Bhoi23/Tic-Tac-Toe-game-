@@ -7,3 +7,5 @@ If a given player gets three marks in a row horizontally, vertically, or diagona
 then that player wins the game.</i>
 
 ![Screenshot 2024-04-30 095503](https://github.com/Nilesh-Bhoi23/Tic-Tac-Toe-game-/assets/147185281/8e1766ca-c744-4dbd-9e80-74385cc6793a)
+
+![Screenshot 2024-04-30 095525](https://github.com/Nilesh-Bhoi23/Tic-Tac-Toe-game-/assets/147185281/c6b238db-2000-4998-8046-547175d5565a)
